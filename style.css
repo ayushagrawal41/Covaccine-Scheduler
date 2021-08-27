@@ -1,0 +1,48 @@
+header{
+    text-align: center;
+    /* border: 5px solid black; */
+}
+
+.form{
+    line-height: 30px;
+}
+
+#heading, h5{
+    text-align: center;
+}
+
+body{
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    background-color: white;
+    /* font-family: 'Poiret One', cursive;
+    font-weight: bold; */
+}
+
+.bg{
+  background-size: 800px 400px;
+  padding: 25px;
+  background-repeat: no-repeat;
+}
+
+.bg .info{
+    border:8px solid #000000;
+  color: #ffffff;
+  font-size:14px;
+  position: absolute;
+  bottom: 0;
+  background: rgb(0, 0, 0);
+  background: rgba(0, 0, 0, 0.5);
+  width: 100%;
+  padding: 20px;
+}
+
+.footer {
+    position:fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color:black;
+    text-align: center;
+  }
